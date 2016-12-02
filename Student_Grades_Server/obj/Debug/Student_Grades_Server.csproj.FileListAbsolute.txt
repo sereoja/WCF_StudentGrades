@@ -1,0 +1,13 @@
+c:\users\sungureanu\documents\visual studio 2015\Projects\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.exe.config
+C:\Users\Student\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.exe.config
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.exe.config
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\obj\Debug\Student_Grades_Server.csprojResolveAssemblyReference.cache
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.exe
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.pdb
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Library.dll
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Library.pdb
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\obj\Debug\Student_Grades_Server.exe
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Server\obj\Debug\Student_Grades_Server.pdb
+C:\Users\homer\Desktop\homework\WCF_Student_Grades\Student_Grades_Server\bin\Debug\Student_Grades_Server.exe.config
+C:\Users\homer\Desktop\homework\WCF_Student_Grades\Student_Grades_Server\obj\Debug\Student_Grades_Server.exe
+C:\Users\homer\Desktop\homework\WCF_Student_Grades\Student_Grades_Server\obj\Debug\Student_Grades_Server.pdb

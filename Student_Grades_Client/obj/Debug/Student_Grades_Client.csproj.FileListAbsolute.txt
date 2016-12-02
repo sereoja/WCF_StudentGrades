@@ -1,0 +1,9 @@
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\bin\Debug\Student_Grades_Client.exe.config
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\bin\Debug\Student_Grades_Client.exe
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\bin\Debug\Student_Grades_Client.pdb
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.csprojResolveAssemblyReference.cache
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.Form1.resources
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.Properties.Resources.resources
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.csproj.GenerateResource.Cache
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.exe
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Client\obj\Debug\Student_Grades_Client.pdb

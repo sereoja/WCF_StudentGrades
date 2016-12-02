@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cfe39678-4df7-4164-bdd0-64caa5e1696e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:15000/StudentGrades" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StudentGradeService.wsdl" MetadataType="Wsdl" ID="2d770e8c-977d-4cc8-b569-793d3f8f0b57" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?wsdl" />
+    <MetadataFile FileName="StudentGrades.xsd" MetadataType="Schema" ID="3424623b-2aab-4cae-982c-dc9af8dd1737" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?xsd=xsd3" />
+    <MetadataFile FileName="StudentGrades1.xsd" MetadataType="Schema" ID="e39575e9-e592-4382-90fc-c1b97871f9eb" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?xsd=xsd2" />
+    <MetadataFile FileName="StudentGrades2.xsd" MetadataType="Schema" ID="f07079c5-1ca7-4668-be2a-d406f2dbab28" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?xsd=xsd1" />
+    <MetadataFile FileName="StudentGrades3.xsd" MetadataType="Schema" ID="31162494-9f41-4c46-a18f-7a273f4ab108" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?xsd=xsd0" />
+    <MetadataFile FileName="StudentGrades.disco" MetadataType="Disco" ID="388c64d1-1572-4522-a3dc-fea7488cc5d7" SourceId="1" SourceUrl="http://localhost:15000/StudentGrades?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

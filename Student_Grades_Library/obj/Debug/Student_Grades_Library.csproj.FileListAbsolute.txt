@@ -1,0 +1,5 @@
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Library\bin\Debug\Student_Grades_Library.dll
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Library\bin\Debug\Student_Grades_Library.pdb
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Library\obj\Debug\Student_Grades_Library.csprojResolveAssemblyReference.cache
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Library\obj\Debug\Student_Grades_Library.dll
+C:\Users\homer\Desktop\WCF_Student_Grades\Student_Grades_Library\obj\Debug\Student_Grades_Library.pdb
